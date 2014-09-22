@@ -1,0 +1,42 @@
+get on site, UTM location for subject, first target lkp or ipp
+
+go do interviews, some may have already been established
+to determine subject category
+kester category determines percentile distances from lkp per category
+Also investigation tasks, hallmark behaviors, sercher behaviors by cat
+
+After 2 hours blow off initial speed calcs
+Median and probable distances
+In MI 50%tile minimum to search
+always try to clear 50%ile
+
+In any search, there is information you don't give out.
+How they distinguish bogus reports
+Also public consumption piece (flyers) doesn't have behavioral stuff
+
+Hasty tasks reminder to search manager
+Actual searcher tasks/behaviors
+description of profile
+
+subject info handout sheet ^^^^
+
+Run a script to calculate circle, manhours to clear.  Kent model used
+seems optimistic, x4 reasonable guess.
+
+within 200m lkp has to gt cleared don't need to plan go do this!
+targeting sectors 50 acres or less depending on topography
+amdr average mean detection range
+searchers=total heads, might be n teams
+use jgr @ r frontend
+
+R take input ss, then checks input, runs models
+output file = input file
+
+Result graphs hours 
+kent model vs nasar model  
+umber searchers vs. time to clear
+next graph how fast, speed vs spacing
+last graph probability of detection (fu fu math) based on spacing and
+amdr
+
+if probability is gelow 0.6 you're not done
